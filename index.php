@@ -1,4 +1,7 @@
-<?php include'./views/partials/head.php';?>
+<?php
+$pageTitle = 'Home Page';
+include'./views/partials/head.php';
+?>
 
 <?php include'./views/partials/header.php';?>
    
@@ -21,5 +24,6 @@
   <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.slim.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/script.js" defer></script>
 </body>
 </html>

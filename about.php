@@ -1,4 +1,7 @@
-<?php include'./views/partials/head.php';?>
+<?php
+$pageTitle = 'About Us';
+include'./views/partials/head.php';
+?>
 
 <?php include'./views/partials/header.php';?>
 
