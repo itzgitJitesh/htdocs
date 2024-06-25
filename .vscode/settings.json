@@ -1,8 +1,11 @@
 {
-    "[php]": {
-        "editor.defaultFormatter": null
-    },
-    "[javascript]": {
-        "editor.defaultFormatter": null
-    }
+  "[php]": {
+    "editor.defaultFormatter": null
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "Jota0222.multi-formatter"
+  }
 }
